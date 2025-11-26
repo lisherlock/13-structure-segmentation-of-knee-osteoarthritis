@@ -41,8 +41,6 @@ These results suggest that joint modeling of cartilage and subchondral bone radi
 
 ## Key Figures
 
-> ⚠️ Please export the corresponding figures from the published PDF and save them into the `figures/` directory (for example using `figures/koa_radiomics_workflow.png` and `figures/koa_radiomics_performance.png`), then update the paths below if needed.
-
 ### 1. Study cohort and radiomics workflow
 
 ![Study design and radiomics workflow](figures/koa_radiomics_workflow.png)
