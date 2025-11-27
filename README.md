@@ -11,17 +11,7 @@ This repository accompanies the following publication:
 
 ## Dataset
 
-The dataset associated with this work is hosted on Hugging Face:
-
-> **Download URL:**  
-> https://huggingface.co/datasets/lisherlock/13-structure-segmentation-of-knee-osteoarthritis
-
-Considering potential future extensions of this segmentation work (for example, open challenges), we currently make publicly available **only a subset of the segmentation training set** for **scientific research use**.
-
-The downloaded archives are password-protected.  
-To obtain the **decompression password**, please contact: **<549936583@qq.com>**.
-
-For questions about additional data access or collaboration, please also use the same email address.
+Our dataset is currently being curated.
 
 ---
 
